@@ -1,6 +1,6 @@
 <?php
 
-$recipients = 'test@demolink.com';
+$recipients = 'beaconinvestment.org@gmail.com';
 
 try {
     require './phpmailer/PHPMailerAutoload.php';
